@@ -224,5 +224,5 @@
 | **Thunder Hawk** |     |     |     |     |     |     |     |     |     |     |     | 
 | **Tian-Zong** |     |     |     |     |     |     |     |     |     |     |     | 
 | **Vindicator** |     |     |     |     |     |     |     |     |     |     |     | 
-| **Wendigo** |     |     |     |     |     |     |     |     |     |     |     |  ●  | 
-| **Guillotine IIC** |     |     |     |     |     |     |     |     |     |     |     |  ●  | 
+| **Wendigo** |     |     |     |     |     |     |     |     |     |     |  ●  |
+| **Guillotine IIC** |     |     |     |     |     |     |     |     |     |     |  ●  | 
